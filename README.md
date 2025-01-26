@@ -2,6 +2,8 @@
 
 EcoWalk is an innovative walking tracker app designed to promote environmental awareness and encourage users to engage with the world around them. By combining fitness tracking with educational opportunities, EcoWalk helps users discover and learn about environmentally significant landmarks while earning rewards for their curiosity and exploration.
 
+This project was made from scratch in 24 hours during the SwampHacks X competition.
+
 ---
 
 ## 🌱 Features
