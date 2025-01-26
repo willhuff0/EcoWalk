@@ -90,7 +90,7 @@ EcoWalk was inspired by the desire to combine fitness, education, and environmen
 
 ## 📽️ Demo Video
 
-[![Demo Video](https://img.youtube.com/vi/LuHYYhurqic/0.jpg)](https://www.youtube.com/watch?v=LuHYYhurqic)
+[![Demo Video](images/video_thumbnail.jpg)](https://www.youtube.com/watch?v=LuHYYhurqic)
 
 ---
 
