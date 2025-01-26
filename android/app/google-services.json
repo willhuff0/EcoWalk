@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "692878959463",
+    "project_id": "eco-step-walk",
+    "storage_bucket": "eco-step-walk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692878959463:android:55527d0b9c4adeb63685c2",
+        "android_client_info": {
+          "package_name": "com.willhuff0.eco_step"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692878959463-dvqgn2dc6a6nte30umbklduopge460f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDywXfOZZHneIO-Kz_0jgljRjsPQjSrKws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692878959463-dvqgn2dc6a6nte30umbklduopge460f7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "692878959463-l1dkp9m6s7jp6tti4tlj32j3e1f5p6it.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.willhuff0.ecoStep"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
