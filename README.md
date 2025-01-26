@@ -4,6 +4,8 @@ EcoWalk is an innovative walking tracker app designed to promote environmental a
 
 This project was made from scratch in 24 hours during the SwampHacks X competition.
 
+[Download on TestFlight](https://testflight.apple.com/join/ncqusBfp) (iOS only, currently waiting for review)
+
 ---
 
 ## 🌱 Features
